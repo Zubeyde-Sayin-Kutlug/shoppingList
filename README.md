@@ -1,1 +1,1 @@
-# shoppingList
+# shoppingList-app
